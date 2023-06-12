@@ -3,11 +3,14 @@
 - Bacharel em Ciência da Computação
 - Trabalho desenvolvendo com Python desde 2018
 
+# Stack
+- Python, Flask, FastAPI, Django, DjangoREST, SQLAlchemy, Django ORM, PyTest, Docker, Linux e Git
+
 # Contatos
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macedo-dev/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macdjoao@gmail.com)
 
-# Conhecimentos
+# Projetos
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/macdjoao/oraculum)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
