@@ -1,14 +1,13 @@
 # Sobre 
 - Olá, me chamo João e sou desenvolvedor backend Python
 - Bacharel em Ciência da Computação
-- Trabalho desenvolvendo com Python desde 2018
+- Trabalho desenvolvendo em Python desde 2018
 
 # Stack
-- Python, Flask, FastAPI, Django, DjangoREST, SQLAlchemy, Django ORM, PyTest, Docker, Linux e Git
-
-# Contatos
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macedo-dev/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macdjoao@gmail.com)
+- Python: Flask, FastAPI, Django, DjangoREST, Django ORM, SQLAlchemy, PyMongo e PyTest
+- TypeScript: NestJS, Prisma e Jest
+- SQL e NoSQL
+- Linux, Docker e Git
 
 # Projetos
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://github.com/macdjoao/blockbuster)
@@ -16,6 +15,9 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
+# Contatos
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macedo-dev/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macdjoao@gmail.com)
 
 
 
