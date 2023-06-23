@@ -5,7 +5,6 @@
 
 # Stack
 - Python: Flask, FastAPI, Django, DjangoREST, Django ORM, SQLAlchemy, PyMongo e PyTest
-- TypeScript: NestJS, Prisma e Jest
 - SQL e NoSQL
 - Linux, Docker e Git
 
